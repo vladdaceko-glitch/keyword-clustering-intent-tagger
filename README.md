@@ -16,13 +16,6 @@ Internal SEO tool for grouping search keywords into semantic clusters, classifyi
 6. **Article Matching**: Calculates cluster centroids, computes cosine similarity against existing articles' main keywords, and marks whether to update an existing page (`Добавить в существующую`) or write a new one (`Новая статья`), highlighting the second-best match and close calls.
 7. **Two-Sheet Export**: Downloads an `.xlsx` workbook (with frozen header rows and auto-adjusted column widths) and `.csv` files encoded with UTF-8 BOM for Microsoft Excel compatibility.
 
----
-
-## Screenshot
-
-Screenshot: add screenshot.png here after the first real run.
-
----
 
 ## Input Format
 
